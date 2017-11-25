@@ -3,10 +3,6 @@ body {
   text-align: center;
 }
   
-main {
-  color: Gray;
-}
-
 header {
   background-image: url("/broadway/resources/images/the-flatiron-building.png");
   color: white;

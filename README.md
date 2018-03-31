@@ -1,2 +1,2 @@
 # broadway
-Broadway  project for Codecademy class 
+Broadway  project for Codecademy Build Websites from Scratch class 
